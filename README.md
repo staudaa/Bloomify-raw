@@ -6,26 +6,8 @@ Dalam pengembangan tugas UTS ini, Bloomify dikembangkan menjadi website dinamis 
 
 ⚙️ Fitur Utama
 
-Manajemen Akun
+1. Manajemen Akun : Register & Login, Edit Akun, Hapus Akun, Lihat Daftar Akun
 
-Register & Login
+2. Manajemen Produk : Tambah Produk, Edit Produk, Hapus Produk, Lihat Daftar Produk
 
-Lihat Profil
-
-Edit Akun
-
-Hapus Akun
-
-Manajemen Produk
-
-Tambah Produk
-
-Edit Produk
-
-Hapus Produk
-
-Lihat Daftar Produk
-
-Manajemen Testimoni
-
-Hapus Testimoni
+3. Manajemen Testimoni : Tambah Testimoni, Hapus Testimoni
